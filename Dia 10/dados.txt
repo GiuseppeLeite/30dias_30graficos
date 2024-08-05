@@ -1,0 +1,28 @@
+ Capitais	2009	2019
+Porto Velho	   57.7 	   65.0 
+Rio Branco	   21.2 	   13.6 
+Manaus	   53.9 	   29.8 
+Boa Vista	   66.4 	   47.9 
+Belém	   19.9 	   26.3 
+Macapá	   16.3 	   23.6 
+Palmas	   68.7 	   60.8 
+São Luís	   28.0 	   19.9 
+Teresina	   34.1 	   31.6 
+Fortaleza	   21.4 	   15.2 
+Natal	   30.6 	   32.0 
+João Pessoa	   55.9 	   45.8 
+Recife	   41.2 	   36.0 
+Maceió	   26.3 	   36.0 
+Aracaju	   52.9 	   33.5 
+Salvador	   36.7 	   44.4 
+Belo Horizonte	   55.8 	   62.8 
+Vitória	   79.0 	   74.2 
+Rio de Janeiro	   29.9 	   33.6 
+São Paulo	   60.5 	   62.6 
+Curitiba	   80.6 	   84.3 
+Florianópolis	   81.4 	   84.9 
+Porto Alegre	   70.9 	   53.6 
+Campo Grande	   69.4 	   57.2 
+Cuiabá	   39.4 	   14.5 
+Goiânia	   58.1 	   52.7 
+Brasília	   61.2 	   63.1 
